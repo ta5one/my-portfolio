@@ -1,3 +1,3 @@
 ## Welcome to my Portfolio
 
-Click Here
+Click [here](https://ta5one.github.io/my-portfolio/) to visit my portfolio
